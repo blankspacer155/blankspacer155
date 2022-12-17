@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Chanchai  Chaisalee.
+🌱 I’m currently learning Computer Engineering at Chiang Mai University
 
 <!--
 **blankspacer155/blankspacer155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
